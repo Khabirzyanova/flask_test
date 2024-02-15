@@ -7,8 +7,8 @@
 1. Склонировать репозиторий и перейти в папку flask_poll:
 
 ```bash
-$ git clone git@github.com:Khabirzyanova/MLOps_2023.git
-$ cd hw1/fastapi-ml/
+$ git clone git@github.com:afkhabirzyanova/flask_poll.git
+$ cd flask_poll
 ```
 
 2. Создать новое виртуальное окружение (приведен пример для miniconda) и уставновить все необходимые зависимости из requirements.txt:

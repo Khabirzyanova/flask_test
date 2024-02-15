@@ -23,4 +23,4 @@ $ conda activate [new_env]
 (new_env)$ python app.py
 ```
 
-4. 
+4. Перейти на страницу  http://127.0.0.1:5000.

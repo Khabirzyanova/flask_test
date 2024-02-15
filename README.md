@@ -16,3 +16,11 @@ $ cd flask_poll
 $ conda create --name [new_env] python=3.11
 $ conda activate [new_env]
 (new_env)$ pip install -r requirements.txt
+```
+
+3. Для запуска сайта выполнить команду:
+```bash
+(new_env)$ python app.py
+```
+
+4. 

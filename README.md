@@ -1,8 +1,18 @@
-# flask_test
+# Домашнее задание №4 
 
+В этом репозитории представлен сайт-анкета с опросом на знание диалектизмов.
 
-1. Создадим новое виртуальное окружение для проекта:
+## Как запустить сайт с анкетой:
 
-2. 
-3. 
-4. 
+1. Склонировать репозиторий и перейти в папку flask_poll:
+
+```bash
+$ git clone git@github.com:Khabirzyanova/MLOps_2023.git
+$ cd hw1/fastapi-ml/
+```
+
+2. Создать новое виртуальное окружение (приведен пример для miniconda) и уставновить все необходимые зависимости из requirements.txt:
+```bash
+$ conda create --name [new_env] python=3.11
+$ conda activate [new_env]
+(new_env)$ pip install -r requirements.txt
